@@ -1,0 +1,12 @@
+you will need nodejs and npm for the discordjs template.
+
+installation:
+
+Windows:
+goto https://nodejs.org/en/ to download nodejs.
+
+goto the folder that has the template and type npm init when it shows a package name: discord-js-template just keep pressing enter then type npm install
+
+now type in node index.js
+
+Video Coming Soon For macOS And Linux Users
